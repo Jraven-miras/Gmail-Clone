@@ -1,5 +1,7 @@
-# git clone Gmail-Clone
+## How to run the Project
 
-# npm install
+# 1st - git clone Gmail-Clone
 
-# npm start
+# 2nd - npm install
+
+# 3rd - npm start
